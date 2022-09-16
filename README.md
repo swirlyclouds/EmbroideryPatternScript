@@ -21,3 +21,6 @@ Currently done through RGB, will be changed to LAB for reasons stated above.
 Add an image into the same directory as the script with the name "Test_Image.jpg" 
 
 Will be changed to have the filename passed in as an argument
+
+##Example Output: 
+![image](https://user-images.githubusercontent.com/30084184/190827073-482989a7-ef64-4414-bc03-6f8bb64ae14c.png)
