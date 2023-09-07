@@ -18,9 +18,13 @@ Iterate through the colours in the image to find the closest thread using the eu
 Currently done through RGB, will be changed to LAB for reasons stated above. 
 
 ## How to use:
-Add an image into the same directory as the script with the name "Test_Image.jpg" 
+```shell
+$> python3 generate_pattern.py [-c number_of_colours] [-f filename]
+```
+default number of colours : 16
 
-Will be changed to have the filename passed in as an argument
+filename : "yosemite-valley.jpg"
+
 
 ## Example Output: 
 ![image](https://user-images.githubusercontent.com/30084184/190827073-482989a7-ef64-4414-bc03-6f8bb64ae14c.png)
